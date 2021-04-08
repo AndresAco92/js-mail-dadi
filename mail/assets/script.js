@@ -22,6 +22,7 @@ for(var i=0; i<e_mails.length; i++){
   }
 }
 
+//risposta log
 if(exist){
   document.getElementById('esito') .innerHTML = 'Mail esistente!';
 }else{
